@@ -3,7 +3,7 @@
      import axios from 'axios';
 
       
-       const URL = 'https://flipkart-api-qgud.onrender.com';
+       const URL = 'https://deploy-mern-ten.vercel.app';
 
      export const authenticateSignup  = async (data)  =>  {
 
